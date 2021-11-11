@@ -130,7 +130,7 @@ const StandaloneCar = styled.div`
 
  @media (min-width: ${SCREENS.sm}) {
     height: 16em;
-    right: -6em;
+    left: -10em;
     top: -6em;
   }
   @media (min-width: ${SCREENS.lg}) {
