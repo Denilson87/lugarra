@@ -39,6 +39,7 @@ ${tw `h-6 md:h-9`}
   img {
       width:auto;
       height:100%;
+    
   }
 `;
 export function Logo(props:ILogoProps){
