@@ -5,8 +5,9 @@ import { SCREENS } from "../../components/responsive";
 import JeepImg from "../../../assets/images/jeep.png"
 
 const AboutUsContainer = styled.div`
-  ${tw`
-    w-full
+ width: 20rem;
+ ${tw`
+    
     flex
     flex-wrap
     items-center
