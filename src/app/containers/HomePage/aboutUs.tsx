@@ -25,18 +25,18 @@ const AboutUsContainer = styled.div`
 
 const CarContainer = styled.div`
   width: auto;
-  height: 15em;
+  height: 13em;
   margin-left: -50px;
   img {
     width: auto;
     height: 100%;
   }
   @media (min-width: ${SCREENS.md}) {
-    height: 20em;
+    height: 18em;
     width:40em;
   }
   @media (min-width: ${SCREENS.lg}) {
-    height: 30em;
+    height: 28em;
   }
   @media (min-width: ${SCREENS["2xl"]}) {
     height: 35em;
