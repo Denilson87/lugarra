@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
@@ -44,3 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 React+typescript-Twailindcss+redux+styledcomponents fully resposive plataform with a nestjs backend for renting cars
+=======
+# lugarra
+using mern stack renting cars webapp
+>>>>>>> edb5d8303b4b722f4c0e6db772905835f6391cdd
