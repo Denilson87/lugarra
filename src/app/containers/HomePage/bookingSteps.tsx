@@ -11,14 +11,13 @@ import tw from "twin.macro";
 
 
 const Container = styled.div`
-
+padding-top: -30px;
 ${tw`
 
  w-full
  flex
  flex-col
  items-center
- pt-3
  pb-3
  lg:pt-0
  lg:pb-0
@@ -93,7 +92,7 @@ const StepTitle=styled.h4`
     `};
 `;
 
-const StepDescription =styled.p`
+const StepDescription = styled.p`
 
 ${tw`
    w-10/12
