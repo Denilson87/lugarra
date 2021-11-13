@@ -169,7 +169,7 @@ export function Footer() {
           </AboutText>
         </AboutContainer>
         <SectionContainer>
-          <HeaderTitle>Our Links</HeaderTitle>
+          <HeaderTitle>Navagadores</HeaderTitle>
           <LinksList>
             <ListItem>
               <a href="#">Inicio</a>
