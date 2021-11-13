@@ -14,7 +14,7 @@ const TopCarsContainer = styled.div`
 
 ${tw`
 
-   max-w-screen-sm
+   max-w-screen-lg
    w-full
    flex
    flex-col
