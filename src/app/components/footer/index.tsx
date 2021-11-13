@@ -17,9 +17,7 @@ const FooterContainer = styled.div`
     items-center
     justify-center
   `};
-  @media only screen and (min-width:813px) and (max-width:1438px){
-    margin-left:100rem;
-  }
+ 
 `;
 
 const InnerContainer = styled.div`
@@ -30,6 +28,9 @@ const InnerContainer = styled.div`
     max-w-screen-2xl
     flex-wrap
   `};
+   @media only screen and (min-width:813px) and (max-width:1438px){
+    margin-left:100rem;
+  }
 `;
 
 const BottomContainer = styled.div`
