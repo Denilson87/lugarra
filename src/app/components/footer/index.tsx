@@ -52,7 +52,7 @@ const CopyrightText = styled.small`
     text-gray-300
   `}
   @media only screen and (min-width:813px) and (max-width:1600px){
-    margin-left:10rem;
+    margin-left:6rem;
    } 
   
 `;
