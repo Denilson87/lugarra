@@ -46,10 +46,15 @@ const BottomContainer = styled.div`
 `;
 
 const CopyrightText = styled.small`
+  
   font-size: 12px;
   ${tw`
     text-gray-300
   `}
+  @media only screen and (min-width:813px) and (max-width:1600px){
+    margin-left:10rem;
+   } 
+  
 `;
 
 const AboutContainer = styled.div`
