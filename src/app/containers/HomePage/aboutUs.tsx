@@ -33,7 +33,7 @@ const CarContainer = styled.div`
   }
   @media (min-width: ${SCREENS.md}) {
     height: 18em;
-    width:40em;
+    width:45em;
   }
   @media (min-width: ${SCREENS.lg}) {
     height: 28em;
