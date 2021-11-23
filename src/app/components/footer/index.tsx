@@ -203,7 +203,7 @@ export function Footer() {
               <a href="#">Contacte-nos</a>
             </ListItem>
             <ListItem>
-              <a href="#">Support</a>
+              <a href="#">Suporte</a>
             </ListItem>
             <ListItem>
               <a href="#">Politicas</a>
