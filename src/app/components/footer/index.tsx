@@ -156,6 +156,7 @@ const RedIcon = styled.span`
 
 const SmallText = styled.h6`
   ${tw`
+    flex
     text-sm
     text-white
   `};
