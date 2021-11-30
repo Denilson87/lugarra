@@ -25,7 +25,7 @@ const AboutUsContainer = styled.div`
 
 const CarContainer = styled.div`
   width: auto;
-  height: 13em;
+  height: 12em;
   margin-left: -50px;
   img {
     width: auto;
