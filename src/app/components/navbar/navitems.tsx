@@ -72,10 +72,10 @@ export function NavItems() {
                 <a href="#">Inicio</a>
             </NavItem>
             <NavItem >
-                <a href="#">Carros</a>
+                <a href="#">Viaturas</a>
             </NavItem>
             <NavItem >
-                <a href="#">Servicos</a>
+                <a href="#">Serviços</a>
             </NavItem>
             <NavItem >
                 <a href="#">Contacte nos</a>
