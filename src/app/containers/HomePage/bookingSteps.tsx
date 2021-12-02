@@ -141,7 +141,7 @@ export function BookingSteps(){
                </Step>
                <StepTitle>Escolha o dia</StepTitle>
                <StepDescription>
-                   Selecione o melhor dia para alugar o carro.
+                   Selecione o dia para alugar o carro.
                </StepDescription>
            </StepContainer>
            
