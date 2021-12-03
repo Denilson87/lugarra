@@ -59,7 +59,7 @@ export function NavItems() {
                         <a href="#">Servicos</a>
                     </NavItem>
                     <NavItem menu>
-                        <a href="#">Contacte nos</a>
+                        <a href="#">Contacte-nos</a>
                     </NavItem>
                 </ListContainer>
             </Menu>
