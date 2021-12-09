@@ -53,7 +53,7 @@ export function NavItems() {
                         <a href="#">Inicio</a>
                     </NavItem>
                     <NavItem menu>
-                        <a href="#">Carros</a>
+                        <a href="#">Viaturas</a>
                     </NavItem>
                     <NavItem>
                        <a href="#">Quem somos</a>
@@ -73,6 +73,9 @@ export function NavItems() {
         <ListContainer>
             <NavItem >
                 <a href="#">Inicio</a>
+            </NavItem>
+            <NavItem>
+             <a href="#">Quem somos</a>
             </NavItem>
             <NavItem >
                 <a href="#">Viaturas</a>
