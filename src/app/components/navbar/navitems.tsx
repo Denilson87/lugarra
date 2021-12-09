@@ -55,6 +55,9 @@ export function NavItems() {
                     <NavItem menu>
                         <a href="#">Carros</a>
                     </NavItem>
+                    <NavItem>
+                       <a href="">Quem somos</a>
+                    </NavItem>
                     <NavItem menu>
                         <a href="#">Servicos</a>
                     </NavItem>
