@@ -52,8 +52,7 @@ const InfoContainer =styled.div`
      flex-wrap
      md:ml-6
      2xl:ml-16
-     
-       
+            
    `};
 `;
 
