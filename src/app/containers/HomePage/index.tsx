@@ -9,6 +9,7 @@ import { BookingSteps } from "./bookingSteps";
 import { AboutUs } from "./aboutUs";
 import { TopCars } from "./topCars";
 import { Footer } from "../../components/footer";
+import { NewsSection } from "./news";
 
 
 const PageContainer = styled.div`
@@ -35,6 +36,7 @@ export function HomePage(){
         <AboutUs/>
         <Marginer direction="vertical" margin="2em"/>
         <TopCars/>
+        <NewsSection/>
         <Footer/>
     </PageContainer>
 }
