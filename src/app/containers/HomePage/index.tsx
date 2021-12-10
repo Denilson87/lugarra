@@ -22,8 +22,8 @@ const PageContainer = styled.div`
     items-center
     overflow-x-hidden
  `}
-
 `;
+
 export function HomePage(){
     return <PageContainer>
         <Navbar/>
