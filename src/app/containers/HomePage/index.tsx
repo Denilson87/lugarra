@@ -34,9 +34,9 @@ export function HomePage(){
         <BookingSteps/>
         <Marginer direction="vertical" margin="2em"/>
         <AboutUs/>
+        <NewsSection/>
         <Marginer direction="vertical" margin="2em"/>
         <TopCars/>
-        <NewsSection/>
         <Footer/>
     </PageContainer>
 }
