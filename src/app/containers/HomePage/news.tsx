@@ -20,6 +20,7 @@ ${`
     pl-7
     md:pl-0
     md:pr-0
+    items-center
 `};
 
 `;
@@ -28,7 +29,7 @@ ${`
 export function NewsSection(){
 
     return <Container>
-             <h1>hello</h1>
+             <h1>Here will come the news section </h1>
     </Container>
 }
 
