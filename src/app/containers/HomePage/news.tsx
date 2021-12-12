@@ -48,7 +48,6 @@ img {
 }
 `;
 
-
 export function NewsSection(){
 
     return <Container>
