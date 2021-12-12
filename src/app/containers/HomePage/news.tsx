@@ -1,6 +1,5 @@
 import React from "react";
-import { SCREENS } from "../../components/responsive";
-import tw from "twin.macro";
+
 import styled from "styled-components";
 
 const Container = styled.div`
@@ -10,7 +9,7 @@ min-height: 23em;
 max-height: 23em;
 width:100%;
 
-${tw`
+${`
      
     flex
     w-full
@@ -27,25 +26,24 @@ ${tw`
 `;
 
 const PicContainer = styled.div`
-
 width: auto;
-  height: 12em;
-  margin-left: -50px;
-  img {
-    width: auto;
-    height: 100%;
-  }
-  @media (min-width: ${SCREENS.md}) {
-    height: 18em;
-    width:45em;
-  }
-  @media (min-width: ${SCREENS.lg}) {
-    height: 28em;
-  }
-  @media (min-width: ${SCREENS["2xl"]}) {
-    height: 35em;
-    margin-left: 0;
-
+height: 12em;
+margin-left: -50px;
+img {
+  width: auto;
+  height: 100%;
+}
+@media (min-width: ${SCREENS.md}) {
+  height: 18em;
+  width:45em;
+}
+@media (min-width: ${SCREENS.lg}) {
+  height: 28em;
+}
+@media (min-width: ${SCREENS["2xl"]}) {
+  height: 35em;
+  margin-left: 0;
+}
 `;
 
 
