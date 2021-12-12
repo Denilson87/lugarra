@@ -29,7 +29,7 @@ ${`
 export function NewsSection(){
 
     return <Container>
-             <h1>Here will come the news section </h1>
+             
     </Container>
 }
 
