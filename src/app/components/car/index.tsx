@@ -60,14 +60,13 @@ ${tw`
 
 `;
 
-
 const PriceContainer = styled.div`
 
 ${tw`
 
 w-full
 flex
-justify-start
+justify-end
 mt-3
 
 `};
