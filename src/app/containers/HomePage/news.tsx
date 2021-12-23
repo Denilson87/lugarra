@@ -1,8 +1,8 @@
 import React from "react";
 import tw from "twin.macro";
 import { SCREENS } from "../../components/responsive";
-
 import styled from "styled-components";
+
 
 const Container = styled.div`
 box-shadow: 0 1.3px 12px -3px rgba( 0, 0, 0, 0.4);
@@ -11,7 +11,7 @@ min-height: 23em;
 max-height: 23em;
 width:100%;
 
-${`
+${tw`
      
     flex
     w-full
